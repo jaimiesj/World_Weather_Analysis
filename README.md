@@ -12,4 +12,4 @@ All codes were successfully excuted and weather data was compiled from over 400 
 <img width="960" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/88955412/134836709-492f1813-a469-467b-a4a8-909d78b4d437.png">
 
 ## Summary
-Additional resources, including the code, is available in the following folder: 
+Additional resources, including the code, is available in the following folder: https://github.com/jaimiesj/World_Weather_Analysis/tree/main/Weather_Database
