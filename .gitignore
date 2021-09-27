@@ -1,9 +1,12 @@
 # Adding config.py file.
 config.py
+config_copy.py
 
 #Adding additional files
 API_practice.ipynb
 random_numbers.ipynb
+Google_Nearby_Search.ipynb
+test to get description from weather.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
